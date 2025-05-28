@@ -1,2 +1,1 @@
-from .alphabet import ALPHABET
-from .caeser_cipher import CaesarCipher
+from .railfence_cipher import RailFenceCipher
